@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node gravure-shelf-accounts.js"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^11.5.0",
